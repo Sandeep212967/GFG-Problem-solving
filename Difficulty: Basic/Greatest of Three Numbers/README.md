@@ -1,0 +1,5 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1">Greatest of Three Numbers</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given three numbers a, b and c. Find the greatest number among them.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input:</strong> a = 10, b = 3, c = 2
+<strong>Output:</strong> 10
+<strong>Explanation: </strong>10 is greatest among the three </span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> a = -4, b = -3, c = -2
+<strong>Output:</strong> -2
+<strong>Explanation: </strong><span style="font-size: 14pt;">-2 is </span></span><span style="font-size: 14pt;">greatest among the three</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematics</code>&nbsp;
