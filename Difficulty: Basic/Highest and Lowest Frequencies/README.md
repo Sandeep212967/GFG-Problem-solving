@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/difference-between-highest-and-lowest-occurrence4613/1">Highest and Lowest Frequencies</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">Given an array, the task is to find the difference between the highest occurrence and lowest occurrence of any numbers in an array. If only one type of element is present in the array return 0</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Input: </strong></span><span style="font-family: arial,helvetica,sans-serif;">arr[] = [1, 2, 2]
+<strong>Output: </strong>1
+<strong>Explanation:  </strong>Lowest occurring element (1) occurs once. Highest occurring element (2) occurs 2 times</span></span></pre>
+<pre><span style="font-size: 14pt;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Input: </strong></span><span style="font-family: arial,helvetica,sans-serif;">arr[] = [7, 8, 4, 5, 4, 1, 1, 7, 7, 2, 5]
+<strong>Output: </strong>2
+<strong>Explanation : </strong>Lowest occurring element (2) occurs once. Highest occurring element (7) occurs 3 times</span></span></pre>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;"><strong>Constraints:</strong><br>1&lt;= arr.size() &lt;=10<sup>6</sup><br>1&lt;= arr[i] &lt;=10<sup>6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Hash</code>&nbsp;
