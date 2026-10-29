@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/fibonacci-sum1423/1">Fibonacci Sum</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given a number positive number <strong>n</strong>, find the value of f<sub>0</sub> + f<sub>1</sub> + f<sub>2</sub> +... + f<sub>N</sub> where f<sub>i</sub> indicates ith <strong>Fibonacci </strong>number. Remember that f<sub>0</sub> = 0, f<sub>1</sub> = 1, f<sub>2</sub> = 1, f<sub>3</sub> = 2, f<sub>4</sub> = 3, f<sub>5</sub> = 5, <br>Since the answer can be very large, the answer takes<strong> </strong>modulo with <strong>10<sup>9</sup> + 7</strong> and returned.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input</strong>: n = 3
+<strong>Output</strong>: 4
+<strong>Explanation</strong>: 0 + 1 + 1 + 2  = 4</span>
+</pre><pre><span style="font-size: 18px;"><strong>Input</strong>: n = 4
+<strong>Output</strong>: 7
+<strong>Explanation</strong>: 0 + 1 + 1 + 2 + 3 = 7</span>
+</pre></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Goldman Sachs</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematics</code>&nbsp;<code>Fibonacci</code>&nbsp;
